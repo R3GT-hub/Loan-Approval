@@ -1,0 +1,27 @@
+Model Performance Summary:
+
+Logistic Regression:
+accuracy: 0.9052
+precision: 0.9190
+recall: 0.9310
+f1: 0.9249
+
+Decision Tree:
+accuracy: 0.9871
+precision: 0.9888
+recall: 0.9907
+f1: 0.9897
+
+Random Forest:
+accuracy: 0.9754
+precision: 0.9742
+recall: 0.9869
+f1: 0.9805
+
+KNN:
+accuracy: 0.9157
+precision: 0.9514
+recall: 0.9123
+f1: 0.9314
+
+Best performing model: Decision Tree
